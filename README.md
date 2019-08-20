@@ -17,5 +17,8 @@ The environment is considered solved, when the average (over 100 episodes) of th
 If you want to run the script on your own computer, first install Anaconda (Python3).
 Download the tennis environment for:
 
+[Linus](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P3/Tennis/Tennis_Linux.zip)
+[MacOSX](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P3/Tennis/Tennis.app.zip)
+[Windows 32 bit](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P3/Tennis/Tennis_Windows_x86.zip)
 [Windows 64 bit](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P3/Tennis/Tennis_Windows_x86_64.zip)
 
