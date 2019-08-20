@@ -1,5 +1,7 @@
 # Tennis
 
+![alt text](https://github.com/MartijnNaaijer/DeepReinforcementLearning_Tennis/blob/master/tennis.png "Play tennis?")
+
 Hi!
 
 In the Tennis environment two agents play a game of tennis. 
